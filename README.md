@@ -54,7 +54,6 @@ Run the application:
 streamlit run portfolio_analyzer.py
 ```
 
-Your browser will automatically open to `http://localhost:8501`
 
 **Steps:**
 1. Enter stock tickers separated by commas (e.g., AAPL, MSFT, GOOGL)
